@@ -10,7 +10,7 @@ B. fork the repository and run these as: python3 'name'.py
 
 # Directory 
 ├── CSV work
-
+    
     ├──Weather report(2014).png
   
     ├──Weather report(with low temperature).png
