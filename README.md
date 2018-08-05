@@ -57,4 +57,14 @@ B. fork the repository and run these as: python3 'name'.py
 
 ├── mpl_squares.py
 
-├──randomwalk.py
+├── randomwalk.py
+
+├── rw_visual.py
+
+├── scatter_squares.png
+
+├── scatter_squares.py
+
+├── scatter_squares1.png
+
+├── squares_plot.py
