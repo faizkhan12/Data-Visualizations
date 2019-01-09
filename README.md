@@ -68,3 +68,12 @@ B. fork the repository and run these as: python3 'name'.py
 ├── scatter_squares1.png
 
 ├── squares_plot.py
+
+├── Seaborn
+
+    ├── Seaborn-1
+    
+    ├── Seaborn-2
+    
+    ├── Matrix
+    
