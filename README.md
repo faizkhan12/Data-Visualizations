@@ -4,7 +4,7 @@ Some interesting plots and visualization based on python3 like plotting square n
 
 # To Run
 
-A. You need to have python3 and matplotlib library installed in your device.
+A. You need to have python3,matplotlib and seaborn library installed in your device.
 
 B. fork the repository and run these as: python3 'name'.py
 
