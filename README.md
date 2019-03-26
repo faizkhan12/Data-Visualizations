@@ -9,6 +9,14 @@ A. You need to have python3,matplotlib and seaborn library installed in your dev
 B. fork the repository and run these as: python3 'name'.py
 
 # Directory 
+
+├── Built-in
+
+    ├── built-in pandas
+    ├── df1
+    ├── df2
+    ├──df3
+
 ├── CSV work
     
     ├──Weather report(2014).png
